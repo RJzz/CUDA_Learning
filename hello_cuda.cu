@@ -1,4 +1,4 @@
-#include "device_launcg_parameters.h"
+#include "device_launch_parameters.h"
 #include <iostream>
 
 int main() {
